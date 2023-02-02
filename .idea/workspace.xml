@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afa991a1-6f41-4d8f-a59d-f99155d68dd6" name="Changes" comment="Домашнее задание №4">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/HomeworkN5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/HomeworkN6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Variables.java" afterDir="false" />
-    </list>
+    <list default="true" id="afa991a1-6f41-4d8f-a59d-f99155d68dd6" name="Changes" comment="Домашнее задание №5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669301023538</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Домашнее задание №5">
+      <created>1675340624015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675340624015</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +189,8 @@
     <MESSAGE value="Домашнее задание" />
     <MESSAGE value="Домашнее задание №3" />
     <MESSAGE value="Домашнее задание №4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание №4" />
+    <MESSAGE value="Домашнее задание №5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание №5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_basic$Operators.ic" NAME="Operators Coverage Results" MODIFIED="1675338551193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -65,22 +65,22 @@ public class HomeworkN5 {
 
 //Дано целое положительное число. Напишите программу, которая выводит сообщение о том, является ли это число простым.
 
-        int simple =6;
+        int simple = 6;
 
-        for (int i=2; i < simple; i++) {
+        for (int i = 2; i < simple; i++) {
             if (simple % i == 0) {
                 System.out.println("не простое число");
                 break;
             }
-                System.out.println("простое число");
-                break;
+            System.out.println("простое число");
+            break;
 
         }
 
 
 //6. Напишите программу для печати следующего сообщения:
 
-         for (int i = 0; i <= 3; i++) {
+        for (int i = 0; i <= 3; i++) {
             for (int j = 0; j <= 9; j++) {
                 System.out.print("*");
 
@@ -88,21 +88,16 @@ public class HomeworkN5 {
             System.out.println();
         }
 
-        for (int i = 0; i < 5; i++){
-        for (int j = 0; j <= i; j++) {
-            System.out.print("*");
+        for (int i = 0; i < 5; i++) {
+            for (int j = 0; j <= i; j++) {
+                System.out.print("*");
 
+            }
+            System.out.println();
         }
-        System.out.println();
-    }
 
 
-
-
-
-
-
- //7. Даны два целых числа a и b. Напишите программу для вычисления суммы натуральных чисел в диапазоне от a до b.
+        //7. Даны два целых числа a и b. Напишите программу для вычисления суммы натуральных чисел в диапазоне от a до b.
 
         int sum = 0;
         for (int i = 1; i < 6; i++) {
@@ -113,17 +108,16 @@ public class HomeworkN5 {
     }
 
 
-
+}
 
 
 
     //Необходимо создать переменную со значением зарплаты сотрудника, вывести в консоль результирующую зарплату с премией.
-        int salary = 2300000;
-        int class_A_salary = (salary / 100) * 50 + salary;
-        int class_B_salary = (salary / 100) * 25 + salary;
 
 
-    }
+
+
+
 
 
 
